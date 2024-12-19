@@ -1,6 +1,8 @@
-# Advanced Prompt Engineering Workshop - Seattle - 2024-12-13
+# Advanced Prompt Engineering Workshop
+- Seattle - 2024-12-13
+- SF - 2024-12-19
 
-Thanks for your interest in attending the Advanced Prompt Engineering Workshop in Seattle on December 13, 2024. In order to get the most out of the workshop, please follow the instructions below to set up your development environment ahead of time.
+Thanks for your interest in attending the Advanced Prompt Engineering Workshop. In order to get the most out of the workshop, please follow the instructions below to set up your development environment ahead of time.
 
 ## Setup Requirements
 
